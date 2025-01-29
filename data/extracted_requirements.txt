@@ -1,0 +1,33 @@
+focus on four main features: Natural Language Processing (NLP) for Requirements Extraction:
+facilitate the automatic extraction of clear, actionable requirements from natural language documents
+track changes to both the SRS and source code, ensuring that all modifications are synchronized
+provide continuous feedback on compatibility status
+identify missing or incompatible elements between the SRS and source code, offering actionable
+help developers state the
+not only enhance the grading process but also
+provide a less error-prone environment
+streamline the compatibility checks between SRS and source code, ultimately enhancing
+provide a compatibility verification feature to automatically check the alignment between Software Requirements
+provide a requirements extraction feature that uses Natural Language Processing (NLP) to automatically extract
+provide an automated reporting feature that continuously generates real-time reports on the compatibility status
+provide a feedback mechanism feature that delivers continuous, real-time feedback on the alignment between the
+cover in its scope:
+log in first or sign up to the SpeCode Fusion system using their credentials
+ensure that the user’s progress is saved
+be asked to upload two main components: the Software Requirements
+go through a cleaning process where unnecessary data will
+implement Natural Language Processing (NLP) to extract the functional re-
+apply Abstract Syntax Trees (AST) to break down the uploaded source code files
+show the accuracy of implementing the requirements
+suggest code snippets or adjustments for partially implemented or unim-
+generate reports which show the status of each requirement, whether it is fully,
+provide the user with a graphical representation to visualize and
+be converted to term vectors
+verify that the source code aligns with SRS
+reduce manual effort and time with detailed
+produce the following deliverables
+include:
+offer code recommendations to improve compatibility
+also include testing
+include costs for cloud computing services, deployment of our system as well as costs for external
+professors use SpeCode Fusion in grading projects
